@@ -13,6 +13,9 @@ Explore the world of wine quality with this project, where I develop a machine l
 ### 3. HeartDiseasePrediction ❤️
 In this project, I delve into the realm of healthcare by developing a machine learning model to predict the likelihood of heart disease in patients. Utilizing a dataset containing various medical attributes such as cholesterol levels, blood pressure, and age, I aim to assist healthcare professionals in early detection and prevention of heart disease.
 
+### 4. SpamMailDetection 📧
+This project focuses on detecting spam emails using machine learning techniques. By analyzing various features of email content such as text, sender information, and subject lines, I develop a model capable of accurately identifying spam emails. In this binary classification task, spam emails are labeled as 0, while non-spam (ham) emails are labeled as 1. This model helps users filter out unwanted messages from their inbox effectively, enhancing email security and productivity.
+
 ## Getting Started 🚀
 To explore these projects:
 1. Clone the repository: `git clone https://github.com/your-username/your-repository.git`
