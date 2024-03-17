@@ -16,6 +16,9 @@ In this project, I delve into the realm of healthcare by developing a machine le
 ### 4. SpamMailDetection 📧
 This project focuses on detecting spam emails using machine learning techniques. By analyzing various features of email content such as text, sender information, and subject lines, I develop a model capable of accurately identifying spam emails. In this binary classification task, spam emails are labeled as 0, while non-spam (ham) emails are labeled as 1. This model helps users filter out unwanted messages from their inbox effectively, enhancing email security and productivity.
 
+### 5. LoanStatusPrediction 💰
+In this project, I develop a machine learning model to predict the status of loan applications. Using a dataset containing various features such as applicant income, credit history, and loan amount, I train a model to classify loan applications into approved or rejected categories. This model assists financial institutions in making informed decisions on loan approvals, improving efficiency and reducing risks.
+
 ## Getting Started 🚀
 To explore these projects:
 1. Clone the repository: `git clone https://github.com/your-username/your-repository.git`
