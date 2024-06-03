@@ -1,6 +1,6 @@
 # Machine Learning Projects Collection 🤖
 
-Welcome to my collection of machine learning projects! Each project in this repository is developed using Google Colab and aims to explore different aspects of machine learning and predictive modeling.
+Welcome to my collection of machine learning projects! Each project in this repository is developed using Google Colab and aims to explore different aspects of machine learning and predictive modeling. 
 
 ## Project List 📋
 
